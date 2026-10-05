@@ -1,3 +1,4 @@
+```yaml
 # ============================================================================
 # Internship Radar - settings
 # ============================================================================
@@ -225,9 +226,10 @@ job_lists:
   - name: zapplyjobs
     url: https://raw.githubusercontent.com/zapplyjobs/Internships-2027/main/README.md
 
-  sections:
-    - software engineering
-    - data science
+sections:
+  - software engineering
+  - data science
 
 # Check companies' career sites directly when configured above
 check_boards: true
+```
